@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tablas_estadistica/static/css/main.250394c6.chunk.css",
+    "main.js": "/tablas_estadistica/static/js/main.0e87b757.chunk.js",
+    "main.js.map": "/tablas_estadistica/static/js/main.0e87b757.chunk.js.map",
+    "runtime-main.js": "/tablas_estadistica/static/js/runtime-main.1d6311a3.js",
+    "runtime-main.js.map": "/tablas_estadistica/static/js/runtime-main.1d6311a3.js.map",
+    "static/js/2.8243958e.chunk.js": "/tablas_estadistica/static/js/2.8243958e.chunk.js",
+    "static/js/2.8243958e.chunk.js.map": "/tablas_estadistica/static/js/2.8243958e.chunk.js.map",
+    "index.html": "/tablas_estadistica/index.html",
+    "static/css/main.250394c6.chunk.css.map": "/tablas_estadistica/static/css/main.250394c6.chunk.css.map",
+    "static/js/2.8243958e.chunk.js.LICENSE.txt": "/tablas_estadistica/static/js/2.8243958e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d6311a3.js",
+    "static/js/2.8243958e.chunk.js",
+    "static/css/main.250394c6.chunk.css",
+    "static/js/main.0e87b757.chunk.js"
+  ]
+}
